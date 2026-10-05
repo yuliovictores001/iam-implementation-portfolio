@@ -25,7 +25,7 @@ are most confident explaining.
 -->
 
 **Name:** Yulio V
-**LinkedIn:** [linkedin.com/in/yourprofile]
+**LinkedIn:** linkedin.com/in/yuliovictores/
 **GitHub:** github.com/yuliovictores001/
 **Status:** In progress
 
