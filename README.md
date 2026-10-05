@@ -27,7 +27,9 @@ are most confident explaining.
 **Name:** Yulio Victores
 
 **LinkedIn:** linkedin.com/in/yuliovictores/
+
 **GitHub:** github.com/yuliovictores001/
+
 **Status:** In progress
 
 ---
