@@ -24,7 +24,8 @@ filled to start applying, build it up as you go, and lead with the capabilities 
 are most confident explaining.
 -->
 
-**Name:** Yulio V
+**Name:** Yulio Victores
+
 **LinkedIn:** linkedin.com/in/yuliovictores/
 **GitHub:** github.com/yuliovictores001/
 **Status:** In progress
