@@ -1,4 +1,4 @@
-# How to Use This Portfolio Template
+# How to Use This Portfolio
 
 This repository is a starting scaffold for your own IAM portfolio. The hard part,
 the structure, is already done. You fill in your own work as you go.
